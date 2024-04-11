@@ -1,8 +1,12 @@
-## Hello
-<h1 align="center">Hi 👋, <br>
- I'm Kimyih</h1>
-<h3 align="center">🍀 Welcome to my GitHub.</h3>
 
+
+<h3 align="center"> Welcome to my GitHub.</h3>
+
+![image 856](https://github.com/kimyih/kimyih.github.io/assets/163376151/f1d6e1a9-f0de-4b23-9d90-4331d63b12eb)
+
+##### Hi, I'm Kimyih.   
+
+---
 - 📫 How to reach me **wlsakf23gmail.com**
 
 <p align="left">
