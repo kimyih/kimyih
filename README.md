@@ -36,4 +36,10 @@
 </p>
 
 <p align="center">
-🎬 [API SITE] = https://youtube-movie-2vjr82spv-kimyihs-projects.vercel.app/
+  
+🎬 [API SITE] = https://youtube-movie-2vjr82spv-kimyihs-projects.vercel.app/    
+💻 [SITE] = https://kimyihvue.netlify.app/ 
+
+</p>
+
+
