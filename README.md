@@ -37,6 +37,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kimyih&show_icons=true&text_color=616161&bg_color=ffffff&locale=en" alt="kimyih's GitHub Stats"/>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kimyih&label=Profile%20views&color=0e75b6&style=flat" alt="kimyih" />
+</p>
+
 <h3 align="center">Featured Projects</h3>
 
 <p align="center">
@@ -58,9 +62,7 @@
     <br>
     💻 [VUE를 이용한 API 영화 사이트] = [https://kimyihvue.netlify.app/](https://movie-vue-kyh.web.app)
   </a>
-</p
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kimyih&label=Profile%20views&color=0e75b6&style=flat" alt="kimyih" />
 </p>
+
+
+
