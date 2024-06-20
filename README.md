@@ -61,13 +61,6 @@
 </p
 
 
-
-
-<h3 align="center">My Latest Blog Posts</h3>
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kimyih&label=Profile%20views&color=0e75b6&style=flat" alt="kimyih" />
 </p>
