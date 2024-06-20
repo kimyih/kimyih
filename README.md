@@ -41,19 +41,28 @@
 
 <p align="center">
   <a href="https://youtube-movie.vercel.app/" target="_blank">
-    <img src="https://github.com/kimyih/kimyih.github.io/assets/163376151/sample_project_image.png" alt="API SITE" width="200" height="150"/>
     <br>
-    🎬 [API SITE] = (https://youtube-movie.vercel.app/)
+    🎬 [유튜브 API를 활용한 사이트1 ] = (https://youtube-movie.vercel.app/)
   </a>
 </p>
 
 <p align="center">
   <a href="https://kimyihvue.netlify.app/" target="_blank">
-    <img src="https://github.com/kimyih/kimyih.github.io/assets/163376151/sample_project_image.png" alt="SITE" width="200" height="150"/>
     <br>
     💻 [SITE] = https://kimyihvue.netlify.app/
   </a>
-</p>
+</p
+
+
+<p align="center">
+  <a href="https://kimyihvue.netlify.app/" target="_blank">
+    <br>
+    💻 [VUE를 이용한 API 영화 사이트] = [https://kimyihvue.netlify.app/](https://movie-vue-kyh.web.app)
+  </a>
+</p
+
+
+
 
 <h3 align="center">My Latest Blog Posts</h3>
 
