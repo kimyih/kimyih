@@ -60,7 +60,8 @@
 <p align="center">
   <a href="https://kimyihvue.netlify.app/" target="_blank">
     <br>
-    💻 [VUE를 이용한 API 영화 사이트] = [https://kimyihvue.netlify.app/](https://movie-vue-kyh.web.app)
+    💻 [VUE를 이용한 API 영화 사이트] = [movie-vue-yh.netlify.app/
+Resources]
   </a>
 </p>
 
