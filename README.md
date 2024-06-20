@@ -49,10 +49,9 @@
 <p align="center">
   <a href="https://kimyihvue.netlify.app/" target="_blank">
     <br>
-    💻 [SITE] = https://kimyihvue.netlify.app/
+    💻 [VUE를 이용한 포트폴리오] = https://kimyihvue.netlify.app/
   </a>
-</p
-
+</p>
 
 <p align="center">
   <a href="https://kimyihvue.netlify.app/" target="_blank">
