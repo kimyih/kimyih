@@ -49,7 +49,7 @@
 [Mymusic1] <br>
 [Mymusic2] <br>
 [Vue.port] <br>
-[Vue.Movie] (movie-vue-yh.netlify.app/) <br>
+[Vue.Movie] ([movie-vue-yh.netlify.app/](https://movie-vue-kyh.web.app)) <br>
 [Github 블로그] (https://kimyih.github.io/) <br>
 
 
