@@ -39,18 +39,18 @@
 
 ---
 
-[메인페이지] https://kimyih.github.io/class2024/ <br>
-[자바스크립트] https://kimyih.github.io/class2024/javascript/index.html <br>
-[MYSQL] https://kimyih.github.io/class2024/mysql/index.html <br>
-[퀴즈게임] https://kimyih.github.io/class2024/quiz/index.html <br>
+[메인페이지] (https://kimyih.github.io/class2024/) <br>
+[자바스크립트] (https://kimyih.github.io/class2024/javascript/index.html) <br>
+[MYSQL] (https://kimyih.github.io/class2024/mysql/index.html) <br>
+[퀴즈게임] (https://kimyih.github.io/class2024/quiz/index.html) <br>
 [Effect] <br>
-[Webd] https://kimyih.github.io/class2024/webd/index.html <br>
+[Webd] (https://kimyih.github.io/class2024/webd/index.html) <br>
 [CSS] <br>
 [Mymusic1] <br>
 [Mymusic2] <br>
 [Vue.port] <br>
 [Vue.Music] <br>
-[Github 블로그] <br>
+[Github 블로그] (https://kimyih.github.io/) <br>
 
 
 
