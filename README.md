@@ -80,7 +80,7 @@
 <p align="center">
   <a href="https://api-music-nu.vercel.app/" target="_blank">
     <br>
-    🎶 [Youtube API Music]
+    🎶 [Youtube API2 Music]
   </a>
 </p>
 
