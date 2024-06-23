@@ -46,8 +46,6 @@
 [Effect] <br>
 [Webd] (https://kimyih.github.io/class2024/webd/index.html) <br>
 [CSS] <br>
-[Mymusic1] <br>
-[Mymusic2] <br>
 [Github 블로그] (https://kimyih.github.io/) <br>
 
 
@@ -72,6 +70,13 @@
   <a href="https://youtube-movie.vercel.app/" target="_blank">
     <br>
     💻 [Youtube API1 Movie] 
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://api-music-nu.vercel.app/" target="_blank">
+    <br>
+    🎶 [Youtube API Music]
   </a>
 </p>
 
