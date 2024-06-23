@@ -48,8 +48,6 @@
 [CSS] <br>
 [Mymusic1] <br>
 [Mymusic2] <br>
-[Vue.port] <br>
-[Vue.Movie] ([movie-vue-yh.netlify.app/](https://movie-vue-kyh.web.app)) <br>
 [Github 블로그] (https://kimyih.github.io/) <br>
 
 
@@ -67,24 +65,25 @@
 
 <h3 align="center">Featured Projects</h3>
 
+
 <p align="center">
-  <a href="https://youtube-movie.vercel.app/" target="_blank">
+  <a href="https://kimyihvue.netlify.app/" target="_blank">
     <br>
-    🎬 [유튜브 API를 활용한 사이트1 ] = (https://youtube-movie.vercel.app/)
+    💻 [API1] = (https://youtube-movie.vercel.app/)
   </a>
 </p>
 
 <p align="center">
   <a href="https://kimyihvue.netlify.app/" target="_blank">
     <br>
-    💻 [VUE를 이용한 포트폴리오] = https://kimyihvue.netlify.app/
+    💻 [VUE를 이용한 포트폴리오] = (https://kimyihvue.netlify.app/)
   </a>
 </p>
 
 <p align="center">
   <a href="https://kimyihvue.netlify.app/" target="_blank">
     <br>
-    💻 [VUE를 이용한 API 영화 사이트] = [movie-vue-yh.netlify.app/
+    💻 [VUE를 이용한 API 영화 사이트] = ([movie-vue-yh.netlify.app/](https://movie-vue-kyh.web.app))
 Resources]
   </a>
 </p>
