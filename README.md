@@ -43,9 +43,8 @@
 [자바스크립트] (https://kimyih.github.io/class2024/javascript/index.html) <br>
 [MYSQL] (https://kimyih.github.io/class2024/mysql/index.html) <br>
 [퀴즈게임] (https://kimyih.github.io/class2024/quiz/index.html) <br>
-[Effect] <br>
+[Effect] (https://kimyih.github.io/class2024/effect/index.html) <br> 
 [Webd] (https://kimyih.github.io/class2024/webd/index.html) <br>
-[CSS] <br>
 [Github 블로그] (https://kimyih.github.io/) <br>
 
 
