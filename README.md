@@ -81,7 +81,7 @@
 </p>
 
 <p align="center">
-  <a href="https://movie-vue-kyh.web.app" target="_blank">
+  <a href="https://movie-vue-yh.netlify.app/" target="_blank">
     <br>
     💻 [VUE를 이용한 API 영화 사이트] = ([movie-vue-yh.netlify.app/](https://movie-vue-kyh.web.app))
 Resources]
