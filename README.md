@@ -69,21 +69,21 @@
 <p align="center">
   <a href="https://youtube-movie.vercel.app/" target="_blank">
     <br>
-    💻 [API1] = (https://youtube-movie.vercel.app/)
+    💻 [Youtube API1 Movie] 
   </a>
 </p>
 
 <p align="center">
   <a href="https://kimyihvue.netlify.app/" target="_blank">
     <br>
-    💻 [VUE를 이용한 포트폴리오] = (https://kimyihvue.netlify.app/)
+    💻 [VUE를 이용한 포트폴리오]
   </a>
 </p>
 
 <p align="center">
   <a href="https://movie-vue-yh.netlify.app/" target="_blank">
     <br>
-    💻 [VUE를 이용한 API 영화 사이트] = ([movie-vue-yh.netlify.app/](https://movie-vue-kyh.web.app))
+    💻 [VUE를 이용한 API 영화 사이트]
 Resources]
   </a>
 </p>
