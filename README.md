@@ -83,16 +83,14 @@
 <p align="center">
   <a href="https://movie-vue-yh.netlify.app/" target="_blank">
     <br>
-    💻 [VUE를 이용한 API 영화 사이트]
-Resources]
+    💻 [VUE를 이용한 API 영화 사이트]
   </a>
 </p>
 
 <p align="center">
   <a href="https://booking-three-wheat.vercel.app/" target="_blank">
     <br>
-    📚 [국가 자격증 문제집 랭킹 사이트]
-Resources]
+    📚 [국가 자격증 문제집 랭킹 사이트]
   </a>
 </p>
 
