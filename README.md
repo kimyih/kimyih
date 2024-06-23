@@ -65,6 +65,8 @@
 
 <h3 align="center">Featured Projects</h3>
 
+---
+
 
 <p align="center">
   <a href="https://youtube-movie.vercel.app/" target="_blank">
