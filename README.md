@@ -10,6 +10,8 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
+---
+
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -75,6 +77,8 @@
 
 <h3 align="center">Projects</h3>
 
+---
+
 <p align="center">
   <a href="https://kimyih.github.io/class2024/">메인페이지</a> •
   <a href="https://kimyih.github.io/class2024/javascript/index.html">자바스크립트</a> •
@@ -87,6 +91,8 @@
 </p>
 
 <h3 align="center">GitHub Stats</h3>
+
+---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kimyih&show_icons=true&theme=light" alt="kimyih's GitHub Stats"/>
