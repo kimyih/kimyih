@@ -90,16 +90,6 @@
   <a href="https://kimyih.github.io/">Github 블로그</a>
 </p>
 
-<h3 align="center">GitHub Stats</h3>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kimyih&show_icons=true&theme=light" alt="kimyih's GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kimyih&label=Profile%20views&color=0e75b6&style=flat" alt="kimyih" />
-</p>
 
 <h3 align="center">Featured Projects</h3>
 
@@ -110,4 +100,16 @@
   <a href="https://kimyihvue.netlify.app/" target="_blank">💻VUE를 이용한 포트폴리오</a> •
   <a href="https://movie-vue-yh.netlify.app/" target="_blank">💻VUE를 이용한 API 영화 사이트</a> •
   <a href="https://booking-three-wheat.vercel.app/" target="_blank">📚 국가 자격증 문제집 랭킹 사이트</a>
+</p>
+
+
+<h3 align="center">GitHub Stats</h3>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kimyih&show_icons=true&theme=light" alt="kimyih's GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kimyih&label=Profile%20views&color=0e75b6&style=flat" alt="kimyih" />
 </p>
