@@ -8,9 +8,10 @@
 
 <p align="center">📫 How to reach me: <strong>wlsakf23@gmail.com</strong></p>
 
+---
+
 <h3 align="center">Languages and Tools:</h3>
 
----
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
@@ -75,30 +76,43 @@
   </a>
 </p>
 
-<h3 align="center">Projects</h3>
-
 ---
 
-<p align="center">
-  <a href="https://kimyih.github.io/class2024/">메인페이지</a> •
-  <a href="https://kimyih.github.io/class2024/javascript/index.html">자바스크립트</a> •
-  <a href="https://kimyih.github.io/class2024/mysql/index.html">MYSQL</a> •
-  <a href="https://kimyih.github.io/class2024/quiz/index.html">퀴즈게임</a> •
-  <a href="https://kimyih.github.io/class2024/effect/index.html">Effect</a> •
-  <a href="https://kimyih.github.io/class2024/webd/index.html">Webd</a> •
-  <a href="https://kimyih.github.io/class2024/css/index2.html">CSS</a> •
-  <a href="https://kimyih.github.io/">Github 블로그</a>
-</p>
+## ✨2024 03 18 ~ ing ✨
+
+- [메인페이지] - [자료 정리](https://kimyih.github.io/class2024/)
+
+- [자바스크립트] - [JAVASCRIPT 문법 정리](https://kimyih.github.io/class2024/javascript/index.html)
+
+- [MYSQL] - [SQL 명령문 및 정보 정리](https://kimyih.github.io/class2024/mysql/index.html)
+
+- [Quiz Game] - [Javscript를 활용한 정보처리기능사 필기 퀴즈](https://kimyih.github.io/class2024/quiz/index.html)
+
+- [GitHub Blog] - [GIT 블로그](https://kimyih.github.io/)
+
+- [Effect] - [css를 활용한 Effect](https://kimyih.github.io/class2024/effect/index.html)
+
+- [Webd] - [웹사이트레이아웃 및 웹디자인기능사](https://kimyih.github.io/class2024/webd/index.html)
+
+- [CSS] - [CSS를 활용한 애니메이션](https://kimyih.github.io/class2024/css/index2.html)
+
+- [API1 = YOUTUBE Movie] - [뮤비 정보 사이트](https://youtube-movie.vercel.app/) & [README](https://github.com/kimyih/youtube-movie)
+
+- [API2 = YOUTUBE Music] - [플레이리스트 사이트](https://api-music-nu.vercel.app/) & [README](https://github.com/kimyih/api-music)
+
+- [VUE를 활용 한 포트폴리오] - [포트폴리오 사이트](https://kimyihvue.netlify.app/)
+
+- [VUE를 활용 한 영화 정보 사이트] - [VUE영화 정보 사이트](https://movie-vue-yh.netlify.app/) & [README](https://github.com/kimyih/vue-movie)
+
+
+  ---
+  
 
 
 <h3 align="center">Featured Projects</h3>
 
 <p align="center">
   <a href="https://github.com/kimyih/code-pin" target="_blank">📌CodePin</a> •
-  <a href="https://youtube-movie.vercel.app/" target="_blank">💻Youtube API1 Movie</a> •
-  <a href="https://api-music-nu.vercel.app/" target="_blank">🎶Youtube API2 Music</a> •
-  <a href="https://kimyihvue.netlify.app/" target="_blank">💻VUE를 이용한 포트폴리오</a> •
-  <a href="https://movie-vue-yh.netlify.app/" target="_blank">💻VUE를 이용한 API 영화 사이트</a> •
   <a href="https://booking-three-wheat.vercel.app/" target="_blank">📚 국가 자격증 문제집 랭킹 사이트</a>
 </p>
 
