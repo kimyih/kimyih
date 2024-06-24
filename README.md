@@ -99,10 +99,10 @@
 <h3 align="center">Featured Projects</h3>
 
 <p align="center">
-  <a href="https://github.com/kimyih/code-pin" target="_blank">CodePin</a> •
-  <a href="https://youtube-movie.vercel.app/" target="_blank">💻 Youtube API1 Movie</a> •
-  <a href="https://api-music-nu.vercel.app/" target="_blank">🎶 Youtube API2 Music</a> •
-  <a href="https://kimyihvue.netlify.app/" target="_blank">💻 VUE를 이용한 포트폴리오</a> •
-  <a href="https://movie-vue-yh.netlify.app/" target="_blank">💻 VUE를 이용한 API 영화 사이트</a> •
+  <a href="https://github.com/kimyih/code-pin" target="_blank">📌CodePin</a> •
+  <a href="https://youtube-movie.vercel.app/" target="_blank">💻Youtube API1 Movie</a> •
+  <a href="https://api-music-nu.vercel.app/" target="_blank">🎶Youtube API2 Music</a> •
+  <a href="https://kimyihvue.netlify.app/" target="_blank">💻VUE를 이용한 포트폴리오</a> •
+  <a href="https://movie-vue-yh.netlify.app/" target="_blank">💻VUE를 이용한 API 영화 사이트</a> •
   <a href="https://booking-three-wheat.vercel.app/" target="_blank">📚 국가 자격증 문제집 랭킹 사이트</a>
 </p>
