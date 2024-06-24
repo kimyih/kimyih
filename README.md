@@ -107,14 +107,11 @@
 
   ---
   
+## 🌱 Team Project 
 
+- 📌 [Project01 : Codepin (나만의 코드 저장 사이트)] - [README](https://github.com/kimyih/code-pin)
 
-<h3 align="center">Featured Projects</h3>
-
-<p align="center">
-  <a href="https://github.com/kimyih/code-pin" target="_blank">📌CodePin</a> •
-  <a href="https://booking-three-wheat.vercel.app/" target="_blank">📚 국가 자격증 문제집 랭킹 사이트</a>
-</p>
+- 📚 [Project02 : Booking (서점 별 국가자격증 문제집 비교 사이트 및 순위)](https://booking-three-wheat.vercel.app/) - [README](https://github.com/kimyih/booking) 
 
 
 <h3 align="center">GitHub Stats</h3>
