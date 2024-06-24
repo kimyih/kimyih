@@ -48,7 +48,7 @@
 [CSS] (https://kimyih.github.io/class2024/css/index2.html) <Br>
 [Github 블로그] (https://kimyih.github.io/) <br>
 
-
+---
 
 
 <h3 align="center">GitHub Stats</h3>
