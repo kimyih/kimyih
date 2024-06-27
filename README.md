@@ -104,6 +104,8 @@
 
 - [VUE를 활용 한 영화 정보 사이트] - [VUE영화 정보 사이트](https://movie-vue-yh.netlify.app/) & [README](https://github.com/kimyih/vue-movie)
 
+- [Next.js를 활용 한 포트폴리오] - [포트폴리오 사이트](next-port-omega.vercel.app) & [README](https://github.com/kimyih/next-port?tab=readme-ov-file#readme)
+
 
   ---
   
