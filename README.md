@@ -89,10 +89,10 @@
 - [MYSQL] - [SQL 명령문 및 정보 정리](https://kimyih.github.io/class2024/mysql/index.html)    
    MySQL의 대한 기본 개념, 설치 및 테이블을 정리한 페이지입니다.
 
-- [Quiz Game] - [Javscript를 활용한 정보처리기능사 필기 퀴즈](https://kimyih.github.io/class2024/quiz/index.html)
+- [Quiz Game] - [Javscript를 활용한 정보처리기능사 필기 퀴즈](https://kimyih.github.io/class2024/quiz/index.html)   
   Javascript를 활용하여 정보처리기능사 필기 퀴즈 100개를 만든 사이트입니다.
 
-- [GitHub Blog] - [GIT 블로그](https://kimyih.github.io/)
+- [GitHub Blog] - [GIT 블로그](https://kimyih.github.io/)   
   개인 GIT 블로그입니다 개발에 관한 기초 지식과 글을 올립니다.
 
 - [Effect] - [css를 활용한 Effect](https://kimyih.github.io/class2024/effect/index.html)
