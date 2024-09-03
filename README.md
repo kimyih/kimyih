@@ -121,7 +121,9 @@
 
 - 📌 [Project01 : Codepin (나만의 코드 저장 사이트)] - [README](https://github.com/kimyih/code-pin)
 
-- 📚 [Project02 : Booking (서점 별 국가자격증 문제집 비교 사이트 및 순위)]- [Booking](https://booking-three-wheat.vercel.app/) - [README](https://github.com/kimyih/booking) 
+- 📚 [Project02 : Booking (서점 별 국가자격증 문제집 비교 사이트 및 순위)]- [Booking](https://booking-three-wheat.vercel.app/) - [README](https://github.com/kimyih/booking)
+
+- 📱 [Project03 : Qbit (QR 테이블 오더를 구현한 시스템)] - [Qbit](http://qbitorder.com/) - [README](https://github.com/spearboy/project_qbit)
 
 
 <h3 align="center">GitHub Stats</h3>
